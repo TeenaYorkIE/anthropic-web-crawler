@@ -54,14 +54,14 @@ Make sure you have installed:
 
 ▶️ Run Scripts
 
-✅ 1. Download .m3u8 files
+✅ 1. Download .m3u8 files (Note:- create video folder inside of this project before run this file)
   node web.js
 
   Output:
 
     vidoes/video_01.m3u8
 
-✅ 2. Download MP4 videos
+✅ 2. Download MP4 videos (Note:- create video-m4 folder inside of this project before run this file)
   node web-m4.js
 
   Output:
